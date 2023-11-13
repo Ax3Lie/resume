@@ -170,6 +170,17 @@ line-height: 17px;
 color: #000000;
 }
 
+/* hobby */
+
+.hobby {
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin: 0 0 8px 0;
+}
+
 /* sidebar */
 
 .sidebar {
